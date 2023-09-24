@@ -16,8 +16,8 @@ dependencyResolutionManagement {
                 basic(BasicAuthentication)
             }
             credentials{
-                username = "mapbox"
-                password = champ
+                username = "add user name"
+                password = add password
             }
         }
     }
