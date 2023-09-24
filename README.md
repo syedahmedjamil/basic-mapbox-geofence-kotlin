@@ -1,5 +1,8 @@
-# basic-mapbox-geofence-kotlin
+# about
 Basic geofence sample using Mapbox kotlin. Tap on the map to add destination and start tracking. App displays a toast message when reached destination.
+
+# run
+add your mapbox api username and password in settings.gradle
 
 
 <p float="left">
