@@ -5,6 +5,7 @@ Basic geofence sample using Mapbox kotlin. Tap on the map to add destination and
 add your mapbox api username and password in settings.gradle
 
 # screenshots
+
 <p float="left">
   <img src="https://github.com/syedahmedjamil/basic-mapbox-geofence-kotlin/blob/main/blob/1.jpg" width="250"/>
   <img src="https://github.com/syedahmedjamil/basic-mapbox-geofence-kotlin/blob/main/blob/2.jpg" width="250"/>
